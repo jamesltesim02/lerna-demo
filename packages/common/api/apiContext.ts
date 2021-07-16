@@ -20,7 +20,7 @@ class ApiContext {
   onApiError (fn: Function) {}
 
   init (params: ApiContextInitParams) {
-
+    
   }
 }
 
